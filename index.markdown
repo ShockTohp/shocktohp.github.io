@@ -4,6 +4,10 @@
 
 layout: default 
 ---
-## Personal Site
 
-This is shock's personal site.
+I am Shocktohp. You might know me from Twitter as [The Flooded Realms](https://floodedrealms.substack.com/). I am a Software Engineer by day and an osr enthusiast all the time. Here you can find links to my various chicanery. No of is is particularly related to anything else.
+
+## Castellan
+Castellan is my intermittent attempt to make managing ongoing rpg campaigns in discord easier. It currently provides features for daily weather reports. New features coming when I feel like it.
+
+
